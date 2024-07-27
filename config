@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "stateagency"]
+	url = https://github.com/si0sgs/EstateAgency.git
+	fetch = +refs/heads/*:refs/remotes/stateagency/*
